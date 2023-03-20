@@ -5,4 +5,4 @@
 - 🌱 Currently focused on exploring NLP, CNN, AI, and other emerging technologies
 - 🤔 Eager to contribute to cutting-edge projects and tackle real-world problems
 - 💬 Ask me about OS, Computer Architecture, and related topics
-- 📫 Contact me on LinkedIn: sergey-hovhannisyan
+- 🔗 Contact me on LinkedIn: sergey-hovhannisyan
